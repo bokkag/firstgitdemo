@@ -1,0 +1,2 @@
+This is sample file content
+git add . // add files to version control , staging
